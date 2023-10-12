@@ -4,7 +4,7 @@ Employee Directory is a react app where the user can look at a list of employees
 
 ## Links
 
-- [Live Demo](https://employee-directory-app-client.herokuapp.com)
+- [Live Demo](https://employee-directory-client.netlify.app)
 
 ## Screenshots
 
